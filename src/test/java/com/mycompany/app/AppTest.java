@@ -9,6 +9,6 @@ public class AppTetst
   @Test
   public void shouldAnswerWithTrue()
   {
-    assertTrue(true);
+    assertTrue(false);
   }
 }
