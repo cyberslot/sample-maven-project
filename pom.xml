@@ -10,8 +10,11 @@
   <dependencies></dependencies>
   <parent></parent>
   <dependencyManagement></dependencyManagement>
-  <modules></modules>
-  <properties></properties> -->
+  <modules></modules> -->
+  <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+  </properties>
  
   <!-- Build Settings -->
 <!--   <build></build>
