@@ -5,7 +5,7 @@
   <!-- The Basics -->
   <groupId>org.junit</groupId>
   <artifactId>test-maven-project</artifactId>
-  <version>1.0</version>
+  <version>4.12</version>
 <!--   <packaging></packaging>
   <dependencies></dependencies>
   <parent></parent>
