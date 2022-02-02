@@ -1,8 +1,8 @@
 package com.mycompany.app:
 
-import static prg.junit.Assert.assertTrue:
+import static org.junit.Assert.assertTrue:
 
-import prg.junit.Test:
+import org.junit.Test:
 
 public class AppTetst
 {
